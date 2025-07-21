@@ -1,0 +1,23 @@
+# Archivos compilados de Java
+*.class
+
+# Directorios binarios
+bin/
+target/
+
+# Archivos y carpetas de Eclipse
+.settings/
+.project
+.classpath
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos del sistema (Windows)
+Thumbs.db
+.DS_Store
+
+# Carpetas específicas de IDEs (si usás otros)
+.vscode/
