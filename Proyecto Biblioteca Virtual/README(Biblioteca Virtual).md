@@ -1,0 +1,40 @@
+
+# Proyecto Biblioteca Virtual
+
+Es un programa que administra los libros de una biblioteca pequeña.
+ 
+Se diseñó una "base de datos", basada en un lista simplemente encadenada de libros, 
+que permite altas, bajas, consultas y modificaciones.
+
+### Estructura de libros
+Un libro contiene la siguiente información: 
+- Titulo
+- Autor (hasta tres autores por libro)
+- Cantidad de páginas
+- Número ISBN
+- Año de edición
+- Editorial
+- Género al que pertenece (ficción, política, biografía, historia, aventura, etc).
+
+## Funcionalidad
+
+Permite realizar las siguientes operaciones:
+
+- Dar de alta un libro (verifica que el libro no exista ya en la biblioteca).
+- Dar de baja un libro (verifica que el libro exista en la biblioteca).
+- Consultar por un libro de un determinado título.
+- Modificar los datos de un libro.
+- Listados:
+
+        1. Listar todos los autores existentes.
+        2. Listar todos los libros existentes.
+        3. Listar todos los libros de un género determinado.
+        4. Listar todos los libros que posee un autor determinado.
+        5. Listar todos los libros de una editorial determinada.
+        6. Listar todos los libros de una editorial determinada en un rango de años de edición.
+        7. Listar todos los autores de una determinada editorial.
+        8. Listar todos los libros que fueron editados en un determinado año.
+        9. Listar todos los libros de los autores cuyos apellidos comienzan con una letra
+        determinada.
+        10. Listar todos los libros cuyos títulos contengan una palabra determinada.
+
