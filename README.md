@@ -8,7 +8,6 @@ Los proyectos dentro del repositorio fueron realizados en colaboracion por Giuli
 
 - Biblioteca Virtual (C)
 - Transacciones (C)
-- Catálogo de CD y DVD (Java)
 - Gestor de Turnos de Consultorio Odontológico (Java)
 
 
